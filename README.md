@@ -1,3 +1,3 @@
 # Activity-Detection-using-ML
 
-Using Accelerometer data detect various activity like walking, running etc 
+Using Accelerometer data detect activity like walking, running etc 
